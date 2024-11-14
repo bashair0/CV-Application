@@ -1,8 +1,47 @@
-# React + Vite
+# CV Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to The Odin Project CV Application Challenge.
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Acknowledgment](#useful-resources)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- Create their own resume.
+
+### Screenshot
+
+![](./public/solution%20imgs/CV-application-solution.png)
+![](./public/solution%20imgs/CV-application-solution2.png)
+
+### Links
+
+- Solution URL: [solution repository](https://github.com/bashair0/CV-Application)
+- Live Site URL: [Preview live site](https://)
+
+## My process
+
+### Built with
+
+- React
+
+### Acknowledgment
+
+- The style inspiration from [enhancv.com](https://app.enhancv.com/resume/)
+
+## Author
+
+- github - [bashair0](https://github.com/bashair0)
+- Frontend Mentor - [@bashair0](https://www.frontendmentor.io/profile/bashair0)

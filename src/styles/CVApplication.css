@@ -1,0 +1,36 @@
+.CVApplicationBackground {
+  position: absolute;
+  inset: 0;
+  height: 100vh;
+  background-color: var(--background-clr);
+  padding-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  gap: 1rem;
+}
+.ctaButtons {
+  gap: 2rem;
+}
+.downloadButton,
+.submitButton {
+  background-color: var(--clr-blue);
+  color: var(--clr-white);
+  padding: 0.5rem 1rem;
+  border-radius: var(--border-radius-10);
+}
+
+.closeButton {
+  background-color: transparent;
+  font-size: 2rem;
+}
+
+.CVApplication {
+  min-width: 700px;
+  min-height: 600px;
+}
+
+.socialsAndIcons {
+  margin-left: 0.3rem;
+  font-size: 0.8rem;
+}
