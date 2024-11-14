@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution repository](https://github.com/bashair0/CV-Application)
-- Live Site URL: [Preview live site](https://)
+- Live Site URL: [Preview live site](cv-application-5w4.pages.dev)
 
 ## My process
 
